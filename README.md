@@ -21,7 +21,13 @@ The project consists of two main components:
 ├── README.md
 ```
 
+<img width="569" alt="image" src="https://github.com/user-attachments/assets/f12e73c3-3950-48ab-89b7-9785fbb56944">
+
+
 ## Inprogress
+
+<img width="395" alt="image" src="https://github.com/user-attachments/assets/25215660-1678-4701-920c-868e698e1ff7">
+
 
 
 
